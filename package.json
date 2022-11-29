@@ -1,0 +1,24 @@
+{
+  "name": "mockapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkrajput26/mockapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vkrajput26/mockapi/issues"
+  },
+  "homepage": "https://github.com/vkrajput26/mockapi#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
