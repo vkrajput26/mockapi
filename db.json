@@ -16,11 +16,22 @@
       "user":[
         {
           "id":1,
-          "userName":"vk",
-          "avtarUrl":"https://i.pravatar.cc/150?img=3",
-          "fullName":"virat",
-          "email":"vk@gmail.com",
-          "password":123
+          "Name":"vk",
+          "Age":24,
+          "Gender":"male",
+          "Country":"india",
+          "Profession":"Student",
+          "Image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FTmbhiJi_cartoon-avatar-png-image-transparent-avatar-user-image%2F&psig=AOvVaw22lE4Av02rtnplA3LVFhQf&ust=1671171540397000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIDm_KH9-vsCFQAAAAAdAAAAABAE"
+          
+        },
+        {
+          "id":2,
+          "Name":"msd",
+          "Age":44,
+          "Gender":"male",
+          "Country":"india",
+          "Profession":"Student",
+          "Image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXNcuIDX1cVNIlAH8ZSAsDzkj-H4UQZoBx5frHxnGExomy4oqiz5k9GVSt0SEi44xyMSc&usqp=CAU"
         }
       ],
       "posts":[
