@@ -38,6 +38,32 @@
         {
           "id":1
         }
+      ],
+      "jobportal":[
+        {
+          "company": "Ellette",
+          "postedAt": "2021-03-30",
+          "city": "Gangtok",
+          "location": "American Samoa",
+          "role": "Frontend",
+          "level": "Junior",
+          "contract": "Full Time",
+          "position": " Backend Developer",
+          "language": "Java",
+          "avatar":"https://w7.pngwing.com/pngs/481/915/png-transparent-computer-icons-user-avatar-woman-avatar-computer-business-conversation-thumbnail.png"
+        },
+        {
+          "company": "Jinny",
+          "postedAt": "2021-09-09",
+          "city": "Ludhiana",
+          "location": "Belgium",
+          "role": "FullStack",
+          "level": "Junior",
+          "contract": "Full Time",
+          "position": "Junior Frontend Developer",
+          "language": "Java",
+          "avatar":"https://png.pngtree.com/png-clipart/20190922/original/pngtree-business-male-user-avatar-vector-png-image_4774078.jpg"
+        }
       ]
       
 
