@@ -41,6 +41,7 @@
       ],
       "jobportal":[
         {
+          "id":1,
           "company": "Ellette",
           "postedAt": "2021-03-30",
           "city": "Gangtok",
@@ -53,6 +54,7 @@
           "avatar":"https://w7.pngwing.com/pngs/481/915/png-transparent-computer-icons-user-avatar-woman-avatar-computer-business-conversation-thumbnail.png"
         },
         {
+          "id":2,
           "company": "Jinny",
           "postedAt": "2021-09-09",
           "city": "Ludhiana",
