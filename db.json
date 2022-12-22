@@ -66,6 +66,38 @@
           "language": "Java",
           "avatar":"https://png.pngtree.com/png-clipart/20190922/original/pngtree-business-male-user-avatar-vector-png-image_4774078.jpg"
         }
+      ],
+      "notemaking":[
+        {
+          "id":1,
+          "title":"JavaScript",
+          "description":"JavaScript is mostly used in Frontend,and it can also be used in Backend, it is a single-threded language",
+          "date":"02/5/2022"
+        },
+        {
+          "id":2,
+          "title":"Css",
+          "description":"CSS stands for Cascading Style Sheets",
+          "date":"03/5/2022"
+        },
+        {
+          "id":3,
+          "title":"Html",
+          "description":"HTML stands for Hyper Text Markup Language,HTML is the standard markup language for creating Web pages",
+          "date":"22/5/2022"
+        },
+        {
+          "id":4,
+          "title":"React",
+          "description":"React is a declarative, and flexible JavaScript library for building user interfaces",
+          "date":"12/5/2022"
+        },
+        {
+          "id":5,
+          "title":"Redux",
+          "description":"Redux is simply a store to store the state of the variables in your app",
+          "date":"26/5/2022"
+        }
       ]
       
 
